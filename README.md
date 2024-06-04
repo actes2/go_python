@@ -1,6 +1,7 @@
 # Go Python
 This repo is a work in progress and may be abandoned, who knows!
 
+![Golang Gopher vs Python Python](https://github.com/actes2/go_python/blob/main/go_python_logo.png?raw=true)
 ## Why make my own solution
 
 Because I feel like a lot of various solutions and setups to this exact connundrum are overcomplicated, and realistically we can get this cranked out with much less effort.
