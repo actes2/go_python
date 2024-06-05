@@ -1,0 +1,7 @@
+64-bit windows
+https://www.python.org/ftp/python/3.12.3/python-3.12.3-embed-amd64.zip
+
+32-bit windows
+https://www.python.org/ftp/python/3.12.3/python-3.12.3-embed-win32.zip
+
+Gzipped source tarball
